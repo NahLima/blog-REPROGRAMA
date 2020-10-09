@@ -1,10 +1,10 @@
 # blog-REPROGRAMA
-Exercicio semana 9
+_Exercicio semana 9_
 
 
-* Motivação 
+* _Motivação_ : Fixar conceitos de GET e aprender a usar o POST e DELETE (método HTTP).
 
-* Arquitetura
+* _Arquitetura_: em andamento...
 
-* Ferramentas utilizadas
+* _Ferramentas utilizadas_: Node.Js, Express, Nodemon e Cors.
 
